@@ -3,17 +3,7 @@ const BACK = 'card_back'
 const CARD = 'card'
 const ICON = 'icon'
 
-
-
-
-
-
-
 start_game()
-// function start_game() {
-//     initialize_cards()
-// }
-
 
 function start_game() {
     game.create_cards_from_techs()
